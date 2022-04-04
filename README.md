@@ -1,3 +1,3 @@
 # DailyJournal
 
-Static web application using node JS with express.
+Static web application using node JS with Express JS.
